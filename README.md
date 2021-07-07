@@ -26,6 +26,6 @@ saved_dir下有save_net和result_img两个文件夹分别用来存放保存的�
 
 
 一下是我们训练过的模型，包括卡通头像的模型
-链接：https://pan.baidu.com/s/1vRaowa352tGuhxrluBQTyw 
-提取码：dzzu 
+链接：https://pan.baidu.com/s/1u2OhbGZT6WVClYgYnp9rKw 
+提取码：cp53 
 将模型下载后放入save_net文件夹中
